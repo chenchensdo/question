@@ -1,0 +1,8 @@
+{
+    "title": "面试资料",
+    "description": "2016面试求职资料整理。",
+    "language": "zh-cn",
+    "plugins": [
+        "splitter"
+    ]
+}
